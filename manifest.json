@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "id": "jake.keyboard-light",
-  "name": "Keyboard Light",
+  "name": "Omarchy support for ROG Falchion Ace 75 HE",
   "version": "0.1.0",
   "author": "jake",
   "license": "MIT",
-  "description": "Colour, effect, speed and brightness for the ASUS ROG Falchion Ace 75 HE keyboard.",
+  "description": "Omarchy support for the ASUS ROG Falchion Ace 75 HE: lighting, key travel and Rapid Trigger.",
   "kinds": [
     "bar-widget"
   ],
@@ -13,8 +13,8 @@
     "barWidget": "Panel.qml"
   },
   "barWidget": {
-    "displayName": "Keyboard Light",
-    "description": "Colour and effects for the ROG Falchion Ace 75 HE.",
+    "displayName": "Omarchy support for ROG Falchion Ace 75 HE",
+    "description": "Lighting, key travel and Rapid Trigger for the ROG Falchion Ace 75 HE.",
     "category": "System",
     "allowMultiple": false,
     "defaultSection": "right"

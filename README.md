@@ -1,6 +1,6 @@
-# Keyboard Light
+# Omarchy support for ROG Falchion Ace 75 HE
 
-An Omarchy bar widget for the **ASUS ROG Falchion Ace 75 HE** (USB `0b05:1c7d`),
+An Omarchy plugin for the **ASUS ROG Falchion Ace 75 HE** (USB `0b05:1c7d`),
 without Armoury Crate or Gear Link:
 
 - **Lighting:** effect (static, breathing, colour cycle, wave, ripple, reactive,
@@ -20,7 +20,7 @@ It works in the stock Omarchy bar and as a section of
 ## Install
 
 ```bash
-gh repo clone BlazeJewell/omarchy-keyboard-light ~/.config/omarchy/plugins/jake.keyboard-light
+gh repo clone BlazeJewell/omarchy-support-for-rog-falchion-ace-75-he ~/.config/omarchy/plugins/jake.keyboard-light
 omarchy plugin enable jake.keyboard-light
 ```
 

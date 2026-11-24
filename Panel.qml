@@ -212,7 +212,7 @@ Panel {
               spacing: Style.space(2)
               Text {
                 textFormat: Text.PlainText
-                text: "Keyboard light"
+                text: "ROG Falchion Ace 75 HE"
                 color: root.bar.foreground
                 font.family: root.bar.fontFamily
                 font.pixelSize: Style.font.title
@@ -569,7 +569,7 @@ Panel {
 
             Text {
               textFormat: Text.PlainText
-              text: "ROG Falchion Ace 75 HE" + (root.firmware ? " · firmware " + root.firmware : "")
+              text: "Omarchy support" + (root.firmware ? " · firmware " + root.firmware : "")
               color: Qt.darker(root.bar.foreground, 1.6)
               font.family: root.bar.fontFamily
               font.pixelSize: Style.font.caption
