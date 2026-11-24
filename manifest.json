@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "jake.keyboard-light",
+  "name": "Keyboard Light",
+  "version": "0.1.0",
+  "author": "jake",
+  "license": "MIT",
+  "description": "Colour, effect, speed and brightness for the ASUS ROG Falchion Ace 75 HE keyboard.",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "Panel.qml"
+  },
+  "barWidget": {
+    "displayName": "Keyboard Light",
+    "description": "Colour and effects for the ROG Falchion Ace 75 HE.",
+    "category": "System",
+    "allowMultiple": false,
+    "defaultSection": "right"
+  }
+}
